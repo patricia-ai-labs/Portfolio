@@ -16,4 +16,3 @@ Dieses Projekt analysiert die Unterschiede zwischen einer didaktischen Lehrbuch-
 
 ## 💬 Reflexion
 Das Projekt zeigt, wie ich über Multiple-Choice-Logik hinausdenke und komplexe Zusammenhänge praxisnah darstelle.
-Create README.md
