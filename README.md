@@ -13,5 +13,4 @@ Hier zeige ich, was ich in diesem Repository dokumentiere: meine Projekte, Refle
 ## Ziel dieses Repos
 Ein klar strukturiertes, ehrliches und praxisnahes Portfolio, das zeigt, wie ich lerne, denke und Probleme löse.
 ## Projekte
-[Projekt F ansehen](projekt-f.md)
-git commit
+➡️ [Projekt F: Taxonomie-Quiz – Realität vs. Lehrbuch](projekt-f.md)
