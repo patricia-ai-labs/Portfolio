@@ -2,6 +2,12 @@
 
 Hier dokumentiere ich meine Projekte, Reflexionen und Lernschritte im Bereich KI, Content Strategy und praktischer Anwendung.
 
+Über mich 
+Patricia verbindet strategisches Denken, kreative Problemlösung und praktische KI‑Anwendung zu einem modernen, ehrlichen Arbeitsstil. Sie arbeitet strukturiert, lernt schnell und dokumentiert transparent, wie sie Herausforderungen analysiert, Entscheidungen trifft und Projekte umsetzt. Ihr Fokus liegt auf KI‑gestützter Content Strategy, Prompt‑Engineering und der Entwicklung klarer, praxisnaher Workflows.
+
+⭐ Short bio (English)
+Patricia combines strategic thinking, creative problem‑solving and practical AI application into a modern, transparent way of working. She learns fast, structures complex topics clearly and documents how she analyzes challenges, makes decisions and builds projects. Her focus is on AI‑driven content strategy, prompt engineering and developing practical, efficient workflows.
+
 ---
 
 ## 🇩🇪 Projekte (Deutsch)
