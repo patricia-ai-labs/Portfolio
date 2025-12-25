@@ -3,6 +3,7 @@
 Prompt 1 – Meta‑Analyse
 
 „Welche Informationen fehlen dir, um die Frage Was ist Prompt Engineering? optimal zu beantworten?“
+
 Antwort der KI:
 
 Modell: (z. B. Claude 4.5 Opus)
