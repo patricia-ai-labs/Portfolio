@@ -7,7 +7,8 @@ Antwort der KI:
 
 Modell: (z. B. Claude 4.5 Opus)
 
-Prompt 2 – Strukturierung
+**Prompt 2 – Strukturierung**
+
 „Wie würdest du die Aufgabe Prompt Engineering erklären in sinnvolle Schritte zerlegen, bevor du antwortest?“
 Antwort der KI:
 (hier einfügen)
