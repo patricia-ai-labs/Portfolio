@@ -74,6 +74,9 @@ Informatik, Künstliche Intelligenz (KI), Maschinelles Lernen (ML), Deep Learnin
 • 	Data Science liegt außerhalb, überschneidet sich aber mit ML und Informatik.
 👉 Data Science ist also nicht Teil der KI-Hierarchie, sondern ein eigenes Feld, das punktuell mit ML und Informatik zusammenarbeitet.
 
+<img width="1024" height="1024" alt="Minimalistisches Eul" src="https://github.com/user-attachments/assets/6dabd0d5-f95d-4280-a8a7-402051a99ee1" />
+
+
 🔵 Explanation of the Euler Diagram (English)
 The diagram shows five topics as overlapping circles:
 Computer Science, Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Data Science.
