@@ -22,6 +22,7 @@ Patricia combines strategic thinking, creative problem‑solving and practical A
 - **Projekt D – KI & Ethik**  
 - **Projekt E – Kreatives Gesundheitswesen-Projekt**  
 - **Projekt F – Taxonomie-Quiz: Realität vs. Lehrbuch**
+- **Project G - KI und ich**
 
 ---
 
@@ -33,6 +34,7 @@ Patricia combines strategic thinking, creative problem‑solving and practical A
 - **Project D – AI & Ethics**  
 - **Project E – Creative Healthcare Project**  
 - **Project F – Taxonomy Quiz: Reality vs. Textbook**
+- **Project G - AI and I**
 
 ---
 
@@ -52,6 +54,7 @@ A clear, structured and practical portfolio demonstrating how I learn, think and
 - [Projekt D](projectD_de.md)
 - [Projekt E](projectE_de.md)
 - [Projekt F](project-f.md)
+- [Projekt G](projectG_de.md)
 
 ### 🇬🇧 English
 - [Project A](projectA_en.md)
@@ -60,4 +63,5 @@ A clear, structured and practical portfolio demonstrating how I learn, think and
 - [Project D](projectD_en.md)
 - [Project E](projectE_en.md)
 - [Project F](project-f.md)
+- [Projekt A](projectG_de.md)
 
