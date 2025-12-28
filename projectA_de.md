@@ -1,6 +1,6 @@
 <h5>🧠 Prompt‑Vergleich: Prompt Engineering</h5>
 
- Portfolio: KI‑Evaluation – Beispiel Meta‑Stresstest
+<h4> Portfolio: KI‑Evaluation – Beispiel Meta‑Stresstest</h4>
 
 **Analyse der Antwortqualität eines KI‑Modells (Meta) anhand eines politischen Fachthemas**
 
