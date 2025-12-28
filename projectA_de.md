@@ -10,25 +10,27 @@ Ziel war es, die Fähigkeit eines KI‑Modells (Meta) zu prüfen, komplexe, fakt
 
 Der Fokus lag auf:
 
-• 	politischem Fachwissen (Schweizer Bundesrat)
-• 	Aktualität
-• 	Faktenkonsistenz
-• 	Fähigkeit zur Selbstkorrektur
-• 	Tiefe der Analyse
+• 	politischem Fachwissen (Schweizer Bundesrat)<br>
+• 	Aktualität<br>
+• 	Faktenkonsistenz<br>
+• 	Fähigkeit zur Selbstkorrektur<br>
+• 	Tiefe der Analyse<br>
 
 2. Vorgehen
    
 Ich stellte dem Modell mehrere Fragen zu:
 
-1. 	Aktuellen Bundesräten der Schweiz
-2. 	Bundespräsident 2026
-3. 	Rolle des Bundeskanzlers
-4. 	Vergleich Schweiz–USA im Gesundheitssystem
+1. 	Aktuellen Bundesräten der Schweiz<br>
+2. 	Bundespräsident 2026<br>
+3. 	Rolle des Bundeskanzlers<br>
+4. 	Vergleich Schweiz–USA im Gesundheitssystem<br>
+
 Dabei wurden bewusst auch Fehlannahmen eingebaut, um zu testen, ob das Modell:
-• 	falsche Informationen übernimmt
-• 	Halluzinationen erzeugt
-• 	sich selbst widerspricht
-• 	oder korrekt korrigiert
+
+• 	falsche Informationen übernimmt<br>
+• 	Halluzinationen erzeugt<br>
+• 	sich selbst widerspricht<br>
+• 	oder korrekt korrigiert<br>
 
 **3. Beobachtete Fehler des Modells**
 
