@@ -31,6 +31,7 @@ Der Feedback‑Empfänger reflektiert aktiv, welche Hinweise übernommen werden 
 • 	Collaborative Review (gemeinsame Überarbeitung in Echtzeit)
 
 📘 4. Lernstrategien: Überblick & Nutzen
+
 Lernstrategien sind bewusste Methoden, um Wissen effizienter aufzunehmen, zu verarbeiten und langfristig zu behalten.
 Sie lassen sich in drei Hauptkategorien einteilen:
 
