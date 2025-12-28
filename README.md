@@ -1,3 +1,110 @@
+TITELSEITE
+Patricia [Nachname]
+AI Literacy • Critical Thinking • Creative Communication
+Portfolio 2025
+Zürich, Schweiz
+
+INHALTSVERZEICHNIS
+1. 	About Me
+2. 	Skills Profile
+3. 	Project Overview
+4. 	Project A – AI Evaluation
+5. 	Project B – Peer Review & Learning Strategies
+6. 	Project C – Spam vs. Ham Model Training
+7. 	Project D – AI & Ethics
+8. 	Project E – Creative Healthcare Project
+9. 	Contact
+
+1. ABOUT ME
+📌 Deutsch
+Ich bin eine analytische, kreative und gesellschaftlich reflektierte Person mit einem starken Fokus auf KI‑Kompetenz, kritisches Denken und klare Kommunikation. Mein Portfolio zeigt, wie ich KI‑Modelle evaluiere, komplexe Themen strukturiere und kreative Methoden einsetze, um Inhalte verständlich und zugänglich zu machen.
+📌 English
+I am an analytical, creative, and socially aware thinker with a strong focus on AI literacy, critical reasoning, and clear communication. My portfolio demonstrates how I evaluate AI systems, structure complex topics, and use creative methods to make information accessible.
+
+2. SKILLS PROFILE
+🧠 Core Skills
+• 	AI Literacy & Model Evaluation
+• 	Critical Thinking & Error Analysis
+• 	Creative Communication
+• 	Ethical Awareness in Technology
+• 	Structured Writing (DE/EN)
+• 	Learning Strategies & Peer Review
+• 	Data Literacy & Basic ML Concepts
+🛠️ Tools & Methods
+• 	Prompt Engineering
+• 	Binary Classification Concepts
+• 	Bias Detection
+• 	Explainability Principles
+• 	Creative Text Design
+
+3. PROJECT OVERVIEW
+
+
+4. PROJECT A – AI EVALUATION
+🧩 Deutsch
+(Hier deinen deutschen Text einfügen.)
+🧩 English
+(Hier die englische Version einfügen.)
+
+5. PROJECT B – PEER REVIEW & LEARNING STRATEGIES
+📚 Deutsch
+(Hier deutschen Text einfügen.)
+📚 English
+(Hier englischen Text einfügen.)
+
+6. PROJECT C – SPAM VS. HAM MODEL TRAINING
+📨 Deutsch
+(Hier deutschen Text einfügen.)
+📨 English
+(Hier englischen Text einfügen.)
+
+7. PROJECT D – AI & ETHICS
+⚖️ Deutsch
+(Hier deutschen Text einfügen.)
+⚖️ English
+(Hier englischen Text einfügen.)
+
+8. PROJECT E – CREATIVE HEALTHCARE PROJECT
+🎨 Deutsch
+(Hier deutschen Text einfügen.)
+🎨 English
+(Hier englischen Text einfügen.)
+
+9. CONTACT
+📍 Zürich, Schweiz
+📧 [E‑Mail]
+🔗 [LinkedIn, optional]
+📄 Portfolio: [optional]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 📘 Patricia AI Labs – Portfolio & Lernreise
 
 Hier dokumentiere ich meine Projekte, Reflexionen und Lernschritte im Bereich KI, Content Strategy und praktischer Anwendung.
