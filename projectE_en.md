@@ -1,4 +1,5 @@
  Project E – Creative Healthcare Project
+ 
 (Portfolio Section – English)
 1. Project Description
 This project combines creativity, social awareness, and analytical thinking to present complex aspects of the Swiss healthcare system in an accessible and engaging way.
