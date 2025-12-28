@@ -1,4 +1,5 @@
 📘 Projekt E – Kreatives Gesundheitswesen‑Projekt
+
 (Portfolio‑Abschnitt – Deutsch)
 1. Projektbeschreibung
 Dieses Projekt verbindet Kreativität, gesellschaftliches Verständnis und kritisches Denken, um komplexe Themen des Schweizer Gesundheitswesens auf innovative Weise darzustellen. Ziel ist es, fachliche Inhalte so aufzubereiten, dass sie zugänglich, verständlich und gleichzeitig künstlerisch ansprechend sind.
