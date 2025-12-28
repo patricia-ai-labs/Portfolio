@@ -63,5 +63,5 @@ A clear, structured and practical portfolio demonstrating how I learn, think and
 - [Project D](projectD_en.md)
 - [Project E](projectE_en.md)
 - [Project F](project-f.md)
-- [Projekt A](projectG_de.md)
+- [Projekt G](projectG_de.md)
 
