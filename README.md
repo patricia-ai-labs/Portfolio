@@ -1,6 +1,6 @@
 # 📘 Patricia AI Labs – Portfolio
 
-**1. ABOUT ME**
+**ABOUT ME**
    
 📌 Deutsch
 
@@ -34,7 +34,9 @@ I am an analytical, creative, and socially aware thinker with a strong focus on 
 
 
 
+
 ## 🔗 Direktlinks zu Projekten / Direct Links to Projects
+
 
 ### 🇩🇪 Deutsch
 - [Projekt A](projectA_de.md)
