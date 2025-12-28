@@ -33,23 +33,28 @@ Dabei wurden bewusst auch Fehlannahmen eingebaut, um zu testen, ob das Modell:
 **3. Beobachtete Fehler des Modells**
 
 A) Falsche Fakten
-
 Das Modell nannte mehrfach:
+
 • 	ehemalige Bundesräte (z. B. Alain Berset, Viola Amherd)
 • 	frei erfundene Bundesräte (z. B. Éric Bertinat)
 • 	falsche Rollen (z. B. Viktor Rossi als Bundesrat statt Bundeskanzler)
 • 	falsche Angaben zum Bundespräsidenten 2026
+
 B) Halluzinationen
 Das Modell erfand:
+
 • 	neue Bundesratsmitglieder
 • 	neue politische Rollen
 • 	angebliche Wahlergebnisse
+
 C) Fehlende Konsistenz
 Bei jeder Korrektur produzierte das Modell:
+
 • 	neue Fehler
 • 	neue erfundene Namen
 • 	neue widersprüchliche Aussagen
 D) Oberflächliche Erklärungen
+
 Beim Vergleich Schweiz–USA im Gesundheitssystem:
 • 	keine Zahlen
 • 	keine Mechanik
