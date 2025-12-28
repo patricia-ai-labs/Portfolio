@@ -1,12 +1,15 @@
 **🧠 Prompt‑Vergleich: Prompt Engineering**
 
  Portfolio: KI‑Evaluation – Beispiel Meta‑Stresstest
-Titel:
-Analyse der Antwortqualität eines KI‑Modells (Meta) anhand eines politischen Fachthemas
+
+**Analyse der Antwortqualität eines KI‑Modells (Meta) anhand eines politischen Fachthemas**
 
 1. Ziel des Tests
+
 Ziel war es, die Fähigkeit eines KI‑Modells (Meta) zu prüfen, komplexe, faktenbasierte Fragen korrekt zu beantworten.
+
 Der Fokus lag auf:
+
 • 	politischem Fachwissen (Schweizer Bundesrat)
 • 	Aktualität
 • 	Faktenkonsistenz
@@ -14,7 +17,9 @@ Der Fokus lag auf:
 • 	Tiefe der Analyse
 
 2. Vorgehen
+   
 Ich stellte dem Modell mehrere Fragen zu:
+
 1. 	Aktuellen Bundesräten der Schweiz
 2. 	Bundespräsident 2026
 3. 	Rolle des Bundeskanzlers
@@ -25,8 +30,10 @@ Dabei wurden bewusst auch Fehlannahmen eingebaut, um zu testen, ob das Modell:
 • 	sich selbst widerspricht
 • 	oder korrekt korrigiert
 
-3. Beobachtete Fehler des Modells
+**3. Beobachtete Fehler des Modells**
+
 A) Falsche Fakten
+
 Das Modell nannte mehrfach:
 • 	ehemalige Bundesräte (z. B. Alain Berset, Viola Amherd)
 • 	frei erfundene Bundesräte (z. B. Éric Bertinat)
@@ -50,7 +57,7 @@ Beim Vergleich Schweiz–USA im Gesundheitssystem:
 • 	keine Quellen
 • 	nur generische Aussagen
 
-4. Bewertung der Antwortqualität
+**5. Bewertung der Antwortqualität**
 
 Gesamtnote: ungenügend für professionelle Nutzung.
 
@@ -61,7 +68,8 @@ Gesamtnote: ungenügend für professionelle Nutzung.
 • 	Es kann Fehler nicht zuverlässig korrigieren.
 • 	Es liefert nur oberflächliche Vergleiche ohne Zahlen oder Kontext.
 
-6. Schlussfolgerung
+**6. Schlussfolgerung**
+
 Dieser Test zeigt, wie wichtig kritisches Denken und Faktenprüfung im Umgang mit KI‑Modellen sind.
 Die Fähigkeit, Fehler zu erkennen und Modelle gezielt zu testen, ist ein zentraler Skill in der modernen KI‑Arbeit.
 Dieses Beispiel demonstriert:
@@ -69,6 +77,7 @@ Dieses Beispiel demonstriert:
 • 	Erkennen von Halluzinationen
 • 	Analyse von Antwortqualität
 • 	Verständnis politischer und gesellschaftlicher Systeme
+
 Ein wertvoller Bestandteil meines Portfolios im Bereich KI‑Kompetenz, Prompting und Qualitätskontrolle.
 
 
